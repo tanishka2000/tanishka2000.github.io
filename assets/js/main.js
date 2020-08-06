@@ -104,10 +104,10 @@ window.onload = function() {
 $(function(){
   $("#1").on({
    mouseover: function(){
-    $(this).attr('src','instagram_in.png');
+    $(this).attr('src','assets/img/instagram_in.png');
   },
   mouseleave: function(){
-    $(this).attr('src','instagram_out.png');
+    $(this).attr('src','assets/img/instagram_out.png');
   }
   });
   
@@ -116,10 +116,10 @@ $(function(){
 $(function(){
   $("#2").on({
    mouseover: function(){
-    $(this).attr('src','linkedin_ub.png');
+    $(this).attr('src','assets/img/linkedin_ub.png');
   },
   mouseleave: function(){
-    $(this).attr('src','linkedin.png');
+    $(this).attr('src','assets/img/linkedin.png');
   }
   });
   
@@ -128,10 +128,10 @@ $(function(){
 $(function(){
   $("#3").on({
    mouseover: function(){
-    $(this).attr('src','gmail_in.png');
+    $(this).attr('src','assets/img/gmail_in.png');
   },
   mouseleave: function(){
-    $(this).attr('src','gmail_out.png');
+    $(this).attr('src','assets/img/gmail_out.png');
   }
   });
   
@@ -140,10 +140,10 @@ $(function(){
 $(function(){
   $("#4").on({
    mouseover: function(){
-    $(this).attr('src','github_in.png');
+    $(this).attr('src','assets/img/github_in.png');
   },
   mouseleave: function(){
-    $(this).attr('src','github_out.png');
+    $(this).attr('src','assets/img/github_out.png');
   }
   });
   
